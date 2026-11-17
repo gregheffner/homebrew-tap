@@ -3,8 +3,8 @@ class Llmtop < Formula
 
   desc "Htop-style monitor for Macs running local LLMs"
   homepage "https://github.com/gregheffner/llmtop"
-  url "https://github.com/gregheffner/llmtop/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "71e350027f4f7d956ff443a1633583cb0ed8704b1c61d65f86d13f0270c2caa3"
+  url "https://github.com/gregheffner/llmtop/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "33d1e627a4b2e5b179dc683a96638e478d0fef340e44cbdb85419c97747ab7de"
   license "MIT"
 
   depends_on arch: :arm64
